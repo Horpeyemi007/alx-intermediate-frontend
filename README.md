@@ -1,5 +1,7 @@
 # alx-intermediate-frontend
 
+# Semantic HTML
+
 ### About the Project
 This project focuses on building a solid foundation in Semantic HTML while emphasizing accessibility, SEO optimization, and the implementation of ARIA roles for enhanced usability
 
